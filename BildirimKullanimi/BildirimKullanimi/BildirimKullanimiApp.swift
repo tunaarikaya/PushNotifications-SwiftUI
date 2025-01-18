@@ -1,7 +1,7 @@
 
 
 import SwiftUI
-//main
+//maina
 @main
 struct BildirimKullanimiApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
